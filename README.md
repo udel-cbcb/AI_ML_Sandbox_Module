@@ -75,9 +75,9 @@ Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment
 - Live Demo
   - [Model Building and Evaluation](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_1_Model_Building_and_Evaluation.ipynb)
   - [Model Tuning, Interpretation, Deployment](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_2_Model_Tunning_Interpretation_Deployment.ipynb)
-  - [Predict Drug Activity for Androgen Receptor](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_4/Live_Demos/Day_4_Live_Demo_3_Predict_Drug_Activity_for_Androgen_Receptor.ipynb)
+
 - Exercise
-  - [Exploratory Analysis and Prediction using Biomedical Data]() ([Solution]())
+  - [Exploratory Analysis and Prediction with Biomedical Data]() ([Solution]())
 
 Submodule 5 - AI/ML for Biomedical Applications
 - Lecture 
