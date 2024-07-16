@@ -1,45 +1,27 @@
-# Practical AI/ML for Computational Biology and Chemistry Workshop
+# Practical Data-Centric AI/ML for Biomedical Researchers
 
   - [Introduction](#introduction)
-  - [Requirements](#requirements)
   - [Sponsors](#sponsors)
   - [License](#license)
   - [Schedule](#schedule)
-  - [Logistics](#logistics)
 
 ## Introduction
-Research is being revolutionized by methods from the field of Artificial Intelligence and Machine Learning (AI/ML). AI is the simulation of human intelligence processes (such as problem-solving, learning, and planning) by machines, while ML, a type of artificial intelligence, gives computers the ability to learn without explicitly being programmed. They have been applied in many areas including drug discovery, protein folding, and identification of variants from genetic data.
+The landscape of biomedical research is experiencing a fundamental shift, transitioning from hypothesis-driven approaches to data-driven discoveries fueled by the large and complex datasets generated through high-throughput technologies. Effectively analyzing and extracting meaningful insights from these datasets requires researchers to be proficient in advanced computational methods such as Artificial Intelligence (AI) and Machine Learning (ML). Furthermore, cloud computing offers flexible, cost-effective, and powerful solutions for data storage, analysis, and collaboration without the infrastructure burden of individual institutions. However, unlocking the full potential of cloud-based AI/ML in biomedical research hinges on equipping researchers with the necessary skills and knowledge. Recognizing this gap, the National Institute of General Medical Sciences (NIGMS) launched the NIGMS Sandbox initiative, aiming to create a repository of cloud-based learning modules for diverse biomedical data science topics. The proposed module, "Practical Data-Centric AI/ML for Biomedical Researchers" aligns perfectly with the NIGMS’s vision to expand the skilled workforce capable of harnessing the power of cloud computing and AI/ML. The module tackles the crucial challenge of upskilling biomedical researchers by equipping researchers with these skills to foster innovation, accelerate scientific discovery. By leveraging the NIGMS Sandbox and cloud platform, the module ensures broad accessibility. This democratizes access to cutting-edge knowledge, empowering researchers regardless of their institutional resources and fostering a more inclusive research landscape. The curriculum prioritizes practical, data-centric techniques, ensuring researchers can immediately apply their acquired knowledge to real-world problems. We pay special attention to critical upstream tasks like data preparation, cleaning, etc. that are the key to successful AI/ML applications. We aim to train the participants with the competencies and skills needed to make biomedical data FAIR ([Findability, Accessibility, Interoperability, and Reusability](https://pubmed.ncbi.nlm.nih.gov/26978244/)) and AI/ML-ready. Our goal is to bring awareness and practices to our trainees so that their data are collected and prepared to support AI/ML applications, with attention to
 
-This workshop will provide you with
+- use of data and metadata standards to make data FAIR, 
+- presentation and labeling of data, including noise, uncertainty, and missing data issues, and 
+- ethical and social considerations and collaborative team science. 
 
-- a conceptual understanding of various AI/ML approaches,
-- examples of practical applications of AI/ML in computational biology and chemistry,
-- hands-on exercises with emphasis on the importance of data preparation and readiness for AI/ML.
-
-Through introductory lectures, you will be exposed to the basic concepts behind AI/ML approaches to better understand the practical applications of these data science tools, including what types of data can be used for a specific approach, and what types of outcomes can be expected. The illustrative practical applications will help you understand how these tools can be used in your research project. You will also learn about the importance of preparing the data according to the FAIR principles, namely, [Findability, Accessibility, Interoperability, and Reusability](https://pubmed.ncbi.nlm.nih.gov/26978244/). This will be addressed by providing you with first-hand experience on the issues arising when data that is not well-prepared, and covering various data formats, processing and wrangling techniques to get the data into a form where it can be utilized by Machine Learning algorithms. You will learn different visualization techniques to better understand the data at hand.
-
-## Requirements
-
-Bring your computer. Live demos and hands-on exercises will involve coding using [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index) notebooks. Basic Python programming is recommended but not required. The skills covered in the Data Carpentry Bootcamp that will be held in June 1-3 2022 meet this requirement.
+The module also utilizes a blend of engaging instructional videos, interactive demonstrations, hands-on exercises to facilitate self-directed learning and knowledge retention. This innovative approach caters to diverse learning styles and maximizes learning outcomes, ensuring a more engaging and effective learning experience for all participants.
 
 ## Sponsors
 
-Hosted by the UD Chemistry-Biology Interface Program and Center for Bioinformatics and Computational Biology. This workshop is offered free of charge with support from the NIH National Institute for General Medical Sciences (T32GM133395-03S1).
+The cloud-based sandbox module is supported by the NIH National Institute for General Medical Sciences (3T32GM142603-03S1).
 
-## License
 
-(c) 2022 by Center for Bioinformatics and Computational Biology, University of Delaware
+## Submodules
 
-The Practical AI/ML for Computational Biology and Chemistry Workshop materials are licensed under a
-Creative Commons Attribution 4.0 International License.
-
-You should have received a copy of the license along with this
-work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
-
-## Schedule
-
-Day 1 (June 13, 1:00pm – 5:00pm)
-- [Introduction to Workshop](https://docs.google.com/presentation/d/1is6-cpgnrYn5vHzUTF9iovDPMOmmnf6hsPeJi1AeLfI/edit?usp=sharing)
+Submodule 1
 - Lecture
   - [Introduction to AI/ML](https://docs.google.com/presentation/d/1QqiLijMrdQ5bwjayNeFz2dCx1v8Te4PVy5brscaL-aY/edit?usp=sharing) ([Quiz](https://forms.gle/xqqr4eRbkM6DdZ1g7))
   - [AI/ML Applications in Biology and Chemistry](https://docs.google.com/presentation/d/1z9OktpolGPzeWjN_mz4h61iV22i9Zvf0qTQp5MW7YA4/edit?usp=sharing) ([Quiz](https://forms.gle/GDiDP88bKuJPUxxY9))
@@ -52,7 +34,7 @@ Day 1 (June 13, 1:00pm – 5:00pm)
   - [NumPy Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_NumPy.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_NumPy_Solution.ipynb))
   - [Pandas Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_Pandas.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_Pandas_Solution.ipynb))
 
-Day 2 (June 14, 1:00pm – 5:00pm)
+Submodule 2
 - Lecture
   - [Data Collection and Data Preparation](https://docs.google.com/presentation/d/1iuT2jQpTqY6E8CI2GRbwFALLCTPukQLlCkB7d4xj8jA/edit?usp=sharing) ([Quiz](https://forms.gle/RbGQjivp2N5TXC1LA))
   - [Data Readiness for AI/ML Checklist](https://docs.google.com/presentation/d/1AGXmqoWbo1JHNTcgVqWXVYEbTlPg1Rid7J8mbrm58Kk/edit?usp=sharing) ([Quiz](https://forms.gle/DFWt45wtEN2JbW4v6))
