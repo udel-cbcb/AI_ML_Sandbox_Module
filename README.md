@@ -28,7 +28,10 @@ The cloud-based sandbox module is supported by the NIH National Institute for Ge
 
 ## Submodules
 
-Submodule 1 - Introduction
+**Submodule 1 - Introduction**
+```
+Study core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
+```
 
 - Lecture
   - [Introduction to AI/ML](https://docs.google.com/presentation/d/1QqiLijMrdQ5bwjayNeFz2dCx1v8Te4PVy5brscaL-aY/edit?usp=sharing) ([Quiz](https://forms.gle/xqqr4eRbkM6DdZ1g7))
@@ -39,8 +42,10 @@ Submodule 1 - Introduction
   - [NumPy Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_NumPy.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_NumPy_Solution.ipynb))
   - [Pandas Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_Pandas.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_1/Exercises/Day_1_Exercise_Pandas_Solution.ipynb))
 
-Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML
-
+**Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML**
+```
+Learn FAIR principles for responsible data management, evaluate data quality and AI/ML readiness, and understand fairness, transparency, and accountability in AI/ML development and deployment.
+```
 - Lecture
   - [FAIR Data Principles]() ([Quiz]())
   - [Data Readiness for AI/ML Checklist](https://docs.google.com/presentation/d/1AGXmqoWbo1JHNTcgVqWXVYEbTlPg1Rid7J8mbrm58Kk/edit?usp=sharing) ([Quiz](https://forms.gle/DFWt45wtEN2JbW4v6))
@@ -49,8 +54,10 @@ Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML
 - Live Demo
 - Exercise
   
-Submodule 3 - Data Preparation
-
+**Submodule 3 - Data Preparation**
+```
+Learn practical data cleaning techniques, as well as feature engineering, feature scaling, and feature selection techniques.
+```
 - Lecture
 	- [Data Collection and Data Preparation](https://docs.google.com/presentation/d/1iuT2jQpTqY6E8CI2GRbwFALLCTPukQLlCkB7d4xj8jA/edit?usp=sharing) ([Quiz](https://forms.gle/RbGQjivp2N5TXC1LA))
   - [Feature Engineering, Scaling and Selection](https://docs.google.com/presentation/d/1boVdrT2YqcIj0MzOQiObSp8MBqGcgrtaYoJvve0C5IU/edit?usp=sharing) ([Quiz](https://forms.gle/PSkB75tfwhmFS6jNA))
@@ -77,7 +84,10 @@ Submodule 3 - Data Preparation
   - [Feature Scaling Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Scaling.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exercise_Feature_Scaling_Solution.ipynb))
   - [Feature Selection Exercise](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exericse_Feature_Selection.ipynb) ([Solution](https://colab.research.google.com/github/udel-cbcb/al_ml_workshop/blob/main/Day_3/Exercises/Day_3_Exericse_Feature_Selection_Solution.ipynb))
 
-Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment
+**Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment**
+```
+Explore different AI/ML model types, and model evaluation techniques, delve into interpretability methods, and learn best practices for model deployment.
+```
 - Lecture 
   - [AI/ML Models and Model Evaluation](https://docs.google.com/presentation/d/1nk-CBd-6o5J-S8QTVrvXOtalnjUoSRgqgHSNaFEAq4M/edit?usp=sharing) ([Quiz](https://forms.gle/eqjGPvWg517qxP9y7))
   - [Model Tuning, Interpretation and Deployment](https://docs.google.com/presentation/d/1PRIDgPmcQuxxHIs3V0zslJXymmEwQSqdJgwgJ0t3yWY/edit?usp=sharing) ([Quiz](https://forms.gle/CRi9mTaqdZEBinzVA))
@@ -88,7 +98,10 @@ Submodule 4 - Model Building, Evaluation, Interpretation, and Deployment
 - Exercise
   - [Exploratory Analysis and Model Prediction with Biomedical Data]() ([Solution]())
 
-Submodule 5 - AI/ML for Biomedical Applications
+**Submodule 5 - AI/ML for Biomedical Applications**
+```
+Show different types of AI/ML algorithms and their suitability for biomedical data. Explore real-world examples of AI/ML in various areas of biomedicine.
+```
 - Lecture 
   - [AI/ML Applications in Biomedicine](https://docs.google.com/presentation/d/1z9OktpolGPzeWjN_mz4h61iV22i9Zvf0qTQp5MW7YA4/edit?usp=sharing) ([Quiz](https://forms.gle/GDiDP88bKuJPUxxY9))
   - [Introduction to Deep Learning](https://docs.google.com/presentation/d/1_GNZw6aiE8m9YMsF18NokoIJH6K2tWLWN70S4C98kxM/edit?usp=sharing) ([Quiz](https://forms.gle/9ZSgQJPLxdkvFQjN6))
