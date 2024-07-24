@@ -14,6 +14,12 @@ The landscape of biomedical research is experiencing a fundamental shift, transi
 
 The module also utilizes a blend of engaging instructional videos, interactive demonstrations, hands-on exercises to facilitate self-directed learning and knowledge retention. This innovative approach caters to diverse learning styles and maximizes learning outcomes, ensuring a more engaging and effective learning experience for all participants.
 
+## Learning Objectives
+
+- Equip learners with the fundamentals of AI/ML in biomedical research.
+- Cover topics such as data preparation, model building, and real-world deployment, and 
+- Focus on practical skills and responsible development.
+
 ## Sponsors
 
 The cloud-based sandbox module is supported by the NIH National Institute for General Medical Sciences (3T32GM142603-03S1).
@@ -39,6 +45,8 @@ Submodule 2 - FAIR Data Principles, Data-Centric AI/ML, and Responsible AI/ML
   - [Data Readiness for AI/ML Checklist](https://docs.google.com/presentation/d/1AGXmqoWbo1JHNTcgVqWXVYEbTlPg1Rid7J8mbrm58Kk/edit?usp=sharing) ([Quiz](https://forms.gle/DFWt45wtEN2JbW4v6))
   - [Data-Centric AI/ML]() ([Quiz]())
   - [Responsible AI/ML]() ([Quiz]())
+- Live Demo
+- Exercise
   
 Submodule 3 - Data Preparation
 
