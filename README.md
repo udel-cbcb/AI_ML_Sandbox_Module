@@ -1,6 +1,7 @@
 # Practical Data-Centric AI/ML for Biomedical Researchers
 
   - [Introduction](#introduction)
+  - [Learning Objectives](#learning_objectives)
   - [Sponsors](#sponsors)
   - [License](#license)
   - [Schedule](#schedule)
