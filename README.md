@@ -17,9 +17,10 @@ The module also utilizes a blend of engaging instructional videos, interactive d
 
 ## Learning Objectives
 
-- Equip learners with the fundamentals of AI/ML in biomedical research.
-- Cover topics such as data preparation, model building, and real-world deployment, and 
-- Focus on practical skills and responsible development.
+After successfully completing this module, learners will be able to:
+- Identify the main concepts of AI/ML and apply these in biomedical research real-world problems
+- Adapt existing Python scripts for a machine learning task 
+- Prepare data that is machine learning ready, build models, and deploy these in real-world setting
 
 ## Sponsors
 
