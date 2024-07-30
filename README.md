@@ -18,7 +18,7 @@ The module also utilizes a blend of engaging instructional videos, interactive d
 ## Learning Objectives
 
 After successfully completing this module, learners will be able to:
-- Identify the main concepts of AI/ML and apply these in biomedical research real-world problems
+- Identify core concepts, ethical aspects and applications of AI/ML in biomedical research
 - Adapt existing Python scripts for a machine learning task 
 - Prepare data that is machine learning ready, build models, and deploy these in real-world setting
 
