@@ -31,7 +31,7 @@ The cloud-based sandbox module is supported by the NIH National Institute for Ge
 
 **Submodule 1 - Introduction**
 
-Study core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
+Learn core concepts, diverse applications, introductory algorithms, ethical considerations, and data challenges.
 
 
 - Lecture
